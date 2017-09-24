@@ -1,1 +1,3 @@
 feature a = I'm a happy person
+
+hotfix 1 = My family is also happy
