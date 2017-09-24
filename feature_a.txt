@@ -1,3 +1,4 @@
 feature a = I'm a happy person
+feature b = I like to drink juice
 
 hotfix 1 = My family is also happy
